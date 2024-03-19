@@ -115,12 +115,41 @@ main {
 }
 
 .box-container {
-    padding: 50px 0;
-    margin-left: 200px;
+    width: 17rem;
+    height: 3rem;
+    border: 1px solid;
+    border-color: rgb(197, 197, 197);
+ 
 }
 
 .box {
-    border: 5px;
-    border-color: grey;
-    margin-top: 2rem;
+    border: 1px solid;
+    border-color: rgb(197, 197, 197);
+    width: 17rem;
 }
+
+.space2 {
+    margin-top: 1rem;
+}
+
+hr {
+    width: 5rem;
+}
+
+.colonna {
+    width: 15rem;
+    margin-left: 1rem;
+}
+
+.dettagli {
+    font-size: 13px;
+    
+}
+
+.check {
+    color: rgb(11, 72, 173);
+    height: 14px;
+    width: 17px;
+    display: f;
+}
+
